@@ -1,6 +1,6 @@
 Unit,Day,Morning,Evening,Day,Morning,Evening
 Medical Centre,Weekdays ( Mon-Sat ),9:00 AM – 1:00 PM,5:00 PM – 6:30 PM,Sunday,9:30 AM – 11:30 AM,*****
-ENT,Monda,*****,5:00 PM–6:30 PM,Thursday,*****,5:00 PM – 6:30 PM
+ENT,Monday,*****,5:00 PM–6:30 PM,Thursday,*****,5:00 PM – 6:30 PM
 Dentist,Saturday,*****,3:30 PM – 6:30 PM,,,
 Homeopathy,Tuesday,*****,5:30 PM – 6:30 PM,,,
 Paediatrician,Wednesday,*****,5:00 PM – 6:30 PM,,,
